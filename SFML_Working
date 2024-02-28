@@ -82,7 +82,7 @@ int main(int argc, char * argv[]) {
     }
     for (auto& r: rectangles) {
       window.draw(rect);
-    }1
+    }
     window.draw(circle);
     window.draw(text);
     window.draw(rect);
